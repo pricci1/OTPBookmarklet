@@ -1,0 +1,2 @@
+- Uses AES-GCM encryption from https://gist.github.com/chrisveness/43bcda93af9f646d083fad678071b90a
+- Uses JS-OTP.js from https://github.com/jiangts/JS-OTP
